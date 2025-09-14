@@ -1,7 +1,7 @@
 # Tour-Project
 <b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
-[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/Keerthana7233/Tour-Project/issues/10) <br>
-[Enhancement: Separate Pages For Popular Packages ](https://github.com/Keerthana7233/Tour-Project/issues/9) <br><br>
+[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/Keerthana7233/Tour-Project/issues/1) <br>
+[Enhancement: Separate Pages For Popular Packages ](https://github.com/Keerthana7233/Tour-Project/issues/2) <br><br>
 DEMO-> https://keerthana7233.github.io/Tour-Project/
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
